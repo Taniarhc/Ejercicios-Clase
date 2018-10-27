@@ -23,7 +23,7 @@ static GLuint ciudad_display_list;	//Display List for the Monito
 float posX =0, posY = 2.5, posZ =-3.5, rotRodIzq = 0, rotRodDer=0, rotBrazoIzq=0, rotBrazoDer=0;
 float giroMonito = 0;
 
-#define MAX_FRAMES 5
+#define MAX_FRAMES 30
 int i_max_steps = 90;
 int i_curr_steps = 0;
 
